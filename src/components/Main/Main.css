@@ -1,0 +1,75 @@
+*{
+    margin: auto;
+    font-family: 'Poppins';
+}
+
+.main{
+    padding: 50px;
+    margin-bottom: -50px;
+}
+
+article{
+    flex: 1;
+    margin: 0 50px;
+    text-align: left;
+    padding: 20px;
+    margin-top: 80px;
+    /* text-align: left; */
+}
+
+article > button {
+    margin: 40px 10px;
+}
+
+article h1 {
+    font-style: normal;
+    font-weight: 700;
+    font-size: 56px;
+    line-height: 68px;
+    color: #011e27;
+    letter-spacing: -0.01em;
+}
+
+h1 > span{
+    color: #129981;
+}
+
+article h3 {
+    font-style: normal;
+    font-weight: 500;
+    font-size: 18px;
+    line-height: 28px;
+    letter-spacing: -0.01em;
+    color: #001F27;
+}
+
+.booktrial{
+    width: 164px;
+    height: 54px;
+    background: #FF736A;
+    border-radius: 80px;
+    border: none;
+    color: white;
+}
+
+.download{
+    width: 164px;
+    height: 54px;
+    background: white;
+    border-radius: 80px;
+    border: none;
+    color: #FF736A;
+    border: 2px solid #FF736A;
+}
+
+.box{
+    height: 286px;
+    width: 500px;
+    margin: auto;
+    border: 1.8px solid black;
+    border-radius: 10%;
+}
+
+.box-div {
+    margin: auto;
+}
